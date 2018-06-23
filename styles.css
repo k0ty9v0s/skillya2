@@ -1,0 +1,85 @@
+body{
+    margin: 0%
+}
+
+.apresentacao{
+    background-image: linear-gradient(to top, #9be15d 0%, #00e3ae 100%);
+    padding: 292px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.como-funciona{
+    background-image: url(img/estude.jpg);
+    padding: 292px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.ca-aluno{
+    background-image: linear-gradient(to top, #9be15d 0%, #00e3ae 100%);
+    padding: 292px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.baixar-app{
+    background-image: linear-gradient(to top, #9be15d 0%, #00e3ae 100%);
+    padding: 292px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.ca-empresa{
+    background-image: url(img/aud.jpg);
+    padding: 292px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.cadastro-empresa{
+    background-image: linear-gradient(to top, #9be15d 0%, #00e3ae 100%);
+    padding: 292px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.contato{
+    background-image: linear-gradient(to top, #9be15d 0%, #00e3ae 100%);
+    padding: 292px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+h1{
+    color: whitesmoke;
+    font-size: 100px;
+    text-align: left;
+    margin: 0px
+}
+
+p{
+    color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 25px
+}
+
+h2{
+    color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    text-shadow: rgb(119, 119, 119)
+}
+
+.texto-intro{
+    color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+}
+
+a{
+    color: whitesmoke
+
+}
+
